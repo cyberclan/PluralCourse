@@ -1,0 +1,2 @@
+spfx-40-fantastics > https://github.com/OlivierCC/spfx-40-fantastics 
+SharePoint Intranet Starter Kit > https://github.com/SharePoint/sp-starter-kit 
